@@ -1,0 +1,17 @@
+server: "mobile-hub.lambdatest.com"
+user: "shubhamr"
+key: ""
+
+
+common_caps:
+
+  "build": "br-2"
+  
+
+browser_caps:
+  -
+    "isRealMobile": "true"
+    "platform": "ios"
+    "deviceName": "iPad (2017)"
+    "platformVersion": "13"
+    "app": "lt://APP10160271761662620931311736"
